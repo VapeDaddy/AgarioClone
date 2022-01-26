@@ -61,10 +61,10 @@ initializePassport(
     }
 )
 const config = {
-    "host": "localhost",
-    "user": "root",
-    "password": "root",
-    "base": "mysql_example"
+    "host": "sql11.freemysqlhosting.net",
+    "user": "sql11468149",
+    "password": "4QCCRPnNBE",
+    "base": "sql11468149"
 };
 
 let db = mysql.createConnection({
